@@ -1,0 +1,17 @@
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 28
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 7
+# Label to use when marking an issue as stale
+staleLabel: stale
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: |
+  Hello :wave:
+
+  This is a kind reminder, that in order to use Packit we need to match your
+  GitHub account to your Fedora account and we ask for you to sign the
+  [FPCA](https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement).
+
+  Let us know if we can help with anything!
+# Comment to post when closing a stale issue. Set to `false` to disable
+closeComment: false
