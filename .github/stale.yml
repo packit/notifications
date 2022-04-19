@@ -13,5 +13,9 @@ markComment: |
   [FPCA](https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement).
 
   Let us know if we can help with anything!
+
+  You can comment here and someone from the team will react shortly.
+  If you think we have missed your messsage or have anything else to say,
+  our contact info can be found [on our webside](https://packit.dev/#why-start-using-packit).
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: false
