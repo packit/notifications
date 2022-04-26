@@ -9,8 +9,8 @@ markComment: |
   Hello :wave:
 
   This is a kind reminder, that in order to use Packit we need to match your
-  GitHub account to your Fedora account and we ask for you to sign the
-  [FPCA](https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement).
+  GitHub account to your Fedora account. The matching is currently done manually,
+  but we are planning to automate it very soon.
 
   Let us know if we can help with anything!
 
