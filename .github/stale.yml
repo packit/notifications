@@ -16,6 +16,6 @@ markComment: |
 
   You can comment here and someone from the team will react shortly.
   If you think we have missed your message or have anything else to say,
-  our contact info can be found [on our webside](https://packit.dev/#why-start-using-packit).
+  our contact info can be found [on our webside](https://packit.dev/#contact).
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: false
