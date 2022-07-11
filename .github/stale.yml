@@ -9,13 +9,10 @@ markComment: |
   Hello :wave:
 
   This is a kind reminder, that in order to use Packit we need to match your
-  GitHub account to your Fedora account. The matching is currently done manually,
-  but we are planning to automate it very soon.
+  GitHub account to your Fedora account. Please, follow the instructions in
+  the description of this issue for automatic matching.
 
-  Let us know if we can help with anything!
+  [Let us know](https://packit.dev/#contact) if we can help with anything!
 
-  You can comment here and someone from the team will react shortly.
-  If you think we have missed your message or have anything else to say,
-  our contact info can be found [on our webside](https://packit.dev/#contact).
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: false
